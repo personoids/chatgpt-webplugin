@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-webplugin",
+  "version": "1.0.0",
+  "description": "A proof of concept of extending chatgpt (plugins-equivalent) without the need for plugins-developer account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
