@@ -37,6 +37,7 @@ hit send and you should see the response from the plugin.
 - npm ls
 - list my files in the root dir
 - run a small javascript program that finds the prime factors of 1238
+- open notepad for me
 
 
 <img src="./screenshot2.png"  width="700" >
