@@ -3,7 +3,7 @@ A proof of concept of extending chatgpt (plugins-equivalent) without the need fo
 
 [![MadeWithPersonoids](https://raw.githubusercontent.com/personoids/chat-ai-plugin/main/made-with.svg)](https://github.com/personoids/chat-ai-plugin)
 
-<img src="./screenshot.png"  width="524" height="457">
+<img src="./screenshot.png"  width="700">
 
 # How to use
 
@@ -36,3 +36,9 @@ hit send and you should see the response from the plugin.
 - detect my OS
 - npm ls
 - list my files in the root dir
+- run a small javascript program that finds the prime factors of 1238
+
+
+<img src="./screenshot2.png"  width="700" >
+
+<img src="./screenshot3.png"  width="700" >
