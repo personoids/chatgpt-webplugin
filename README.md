@@ -1,7 +1,7 @@
 # chatgpt-webplugin
 A proof of concept of extending chatgpt (plugins-equivalent) without the need for plugins-developer account
 
-![MadeWithPersonoids](https://raw.githubusercontent.com/personoids/chat-ai-plugin/main/made-with.svg)
+[![MadeWithPersonoids](https://raw.githubusercontent.com/personoids/chat-ai-plugin/main/made-with.svg)](https://github.com/personoids/chat-ai-plugin)
 
 <img src="./screenshot.png"  width="524" height="457">
 
